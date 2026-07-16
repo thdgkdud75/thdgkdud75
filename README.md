@@ -3,7 +3,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <a href="https://github.com/thdgkdud75">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Woojin%20Cho&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Web%20%C2%B7%20Embedded%20Developer&descAlignY=58&descSize=20" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=WOOJIN%20CHO&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Web%20%C2%B7%20Embedded%20Developer&descAlignY=58&descSize=20" alt="header" />
 </a>
 
 ---
